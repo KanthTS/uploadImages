@@ -1,0 +1,5 @@
+###
+post http://localhost:3000/upload
+
+###
+get http://localhost:3000/uploads
